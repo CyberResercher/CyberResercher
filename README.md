@@ -1,5 +1,5 @@
 [![MasterHead](https://data.textstudio.com/output/sample/animated/7/8/6/5/security-4-5687.gif)](https://cyberresercher.io)
-<h1 align="center">Hi 👋, I'm Suraj Adhikari</h1>
+<h1 align="center">Hi 👋, I'm Cyber Researcher</h1>
 <h3 align="center">A passionate Cyber Security Analist from India</h3>
 <div>
 <img align="right" alt="Coding" width="400" src="https://www.b2w.tv/hubfs/ezgif.com-gif-maker%20%2813%29-1.gif"/>
