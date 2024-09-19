@@ -1,4 +1,4 @@
-[![MasterHead]('https://www.pwc.com/mt/en/services/cyber-security/cyber-attack-.gif')](https://cyberresercher.io)
+[![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)](https://cyberresercher.io)
 <h1 align="center">Hi 👋, I'm Suraj Adhikari</h1>
 <h3 align="center">A passionate Cyber Security Analist from India</h3>
 <div>
