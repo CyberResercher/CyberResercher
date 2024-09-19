@@ -1,7 +1,11 @@
 [![MasterHead]('https://www.pwc.com/mt/en/services/cyber-security/cyber-attack-.gif')](https://cyberresercher.io)
 <h1 align="center">Hi 👋, I'm Suraj Adhikari</h1>
 <h3 align="center">A passionate Cyber Security Analist from India</h3>
+<div>
 <img align="right" alt="Coding" width="400" src="https://www.b2w.tv/hubfs/ezgif.com-gif-maker%20%2813%29-1.gif"/>
+</div>
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cyberresearcher&label=Profile%20views&color=0e75b6&style=flat" alt="cyberresearcher" /> </p>
 
@@ -26,3 +30,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cyberresearcher&show_icons=true&locale=en" alt="cyberresearcher" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cyberresearcher&" alt="cyberresearcher" /></p>
+
