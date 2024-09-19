@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.tech.eu/uploads/2023/12/provenrun-374.gif)](https://cyberresercher.io)
+[![MasterHead](https://media.licdn.com/dms/image/C5112AQF9a-hvzWn8uA/article-cover_image-shrink_600_2000/0/1574956586430?e=2147483647&v=beta&t=gJtNG2yyNA55hJa-1EQ_20QewBtVaz1oMq20GX4e_ic)](https://cyberresercher.io)
 <h1 align="center">Hi 👋, I'm Suraj Adhikari</h1>
 <h3 align="center">A passionate Cyber Security Analist from India</h3>
 <div>
