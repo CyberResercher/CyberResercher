@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/C5112AQF9a-hvzWn8uA/article-cover_image-shrink_600_2000/0/1574956586430?e=2147483647&v=beta&t=gJtNG2yyNA55hJa-1EQ_20QewBtVaz1oMq20GX4e_ic)](https://cyberresercher.io)
+[![MasterHead](https://data.textstudio.com/output/sample/animated/7/8/6/5/security-4-5687.gif)](https://cyberresercher.io)
 <h1 align="center">Hi 👋, I'm Suraj Adhikari</h1>
 <h3 align="center">A passionate Cyber Security Analist from India</h3>
 <div>
