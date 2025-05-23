@@ -10,8 +10,6 @@
 
 - 💬 Ask me about **Microsoft Sentinel**
 
-- 📫 How to reach me **researchoncyber@outlook.com**
-
 - ⚡ Fun fact **Why did the hacker break up with the cybersecurity analyst? Because they just couldn’t decrypt their feelings!**
 
 <h3 align="left">Connect with me:</h3>
